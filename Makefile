@@ -4,7 +4,7 @@ LIBS=-lglpk -lm
 
 all: main
 
-main: main.c Incertezza.c NeuralNetwork.c PL_Scheduler.c
+main: src/main.c src/Incertezza.c src/NeuralNetwork.c src/PL_Scheduler.c
 	$(CC) $(CFLAGS) $^ -o $@ $(LIBS)
 
 clean:
