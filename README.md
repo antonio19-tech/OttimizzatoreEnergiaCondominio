@@ -30,6 +30,7 @@ Il sistema è composto da tre macro-aree:
 ---
 
 ## 🗂 Struttura del progetto
+```text
 ├── src/
 │ ├── NeuralNetwork.c /.h
 │ ├── Incertezza.c /.h
