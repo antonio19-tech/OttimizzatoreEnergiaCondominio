@@ -4,7 +4,7 @@
  *                MACROAREA INCERTEZZA (ICON9)
  * ============================================================
  *
- * Questo modulo implementa il ragionamento decisionale sotto
+ * Modulo che implementa il ragionamento decisionale sotto
  * incertezza tramite il concetto di UTILITÀ ATTESA.
  *
  * La rete neurale fornisce una distribuzione di probabilità

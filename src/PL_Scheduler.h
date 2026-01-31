@@ -5,7 +5,7 @@
  *              MACROAREA DECISIONE (ICON3)
  * ============================================================
  *
- * Questo modulo implementa la fase finale del sistema:
+ * Modulo che implementa la fase finale del sistema:
  * la DECISIONE OTTIMALE.
  *
  * Utilizza la Programmazione Lineare (PL) per determinare

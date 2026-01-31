@@ -119,7 +119,7 @@ PL_Risultato calcolarePianoOttimale(
     glp_smcp parm;
     glp_init_smcp(&parm);
 
-    /* Disattiva output del simplex (log puliti) */
+    /* Disattivazione output del simplex */
     parm.msg_lev = GLP_MSG_OFF;
 
     glp_simplex(lp, &parm);
